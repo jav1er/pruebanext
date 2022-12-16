@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Caveat-Regular";
+    src: local("Caveat-Regular"),
+      url(../public/font/Caveat-Regular.ttf) format("truetype");
+  }
+  
+ 
+  @font-face {
+    font-family: "OpenSans-Regular";
+    src: local("OpenSans-Regular"),
+      url(../public/font/OpenSans-Regular.ttf)
+        format("truetype");
+  }
+
+
+  @import "./colors.scss";
+
