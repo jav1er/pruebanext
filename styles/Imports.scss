@@ -15,3 +15,9 @@
 
   @import "./colors.scss";
 
+  //components
+  @import "../layaut/Layout.scss";
+  @import "../components/Header/Header.scss";
+  @import "../components/ContentMain/ContentMain.scss";
+  @import "../components/Card/Card.scss";
+  @import "../components/Form/Form.scss"
